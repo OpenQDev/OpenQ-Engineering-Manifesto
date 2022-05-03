@@ -90,3 +90,6 @@ In the meantime, a healthy mix of centralization and decentralization provides t
 - [OpenQ-Oracle](https://github.com/OpenQDev/OpenQ-Oracle)
 - Coingeck API
 - Caching coin prices with Redis
+
+### PR Hall of Fame
+How to properly add a service: https://github.com/OpenQDev/OpenQ-Frontend/pull/294/files
